@@ -9,6 +9,6 @@
 
 | [Atividades iniciais](https://github.com/antoniobigas/Forma--o-Alura---QA-/tree/main/Desafio%20Inicial/logica-js-projeto_inicial)| JavaScript
 
-
+|--|--| 
 
 </div>

@@ -1,4 +1,7 @@
 # Formação Alura - QA 
+
+Os projetos abordam situações reais do mercado de trabalho, com tecnologias atuais. É abordado desde a parte inicial da preparação dos testes, casos de uso, planejamento de teste, cascata vs Agile, até a parte de automação de testes.
+Foi utilizado nos projetos: JavaScript, Git, Cypress, html, Css.
  
 <div  align="center" dir="auto"> 
   
